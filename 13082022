@@ -1,0 +1,13 @@
+Node JS
+
+•	Node JS is a server side JavaScript language.
+•	Node JS runs on modified V8 Engine.
+•	It does not have windows and document Object.
+•	It was created by  Ryan Dahl, by modifying the v8 engine.
+
+Browser JS
+
+•	Browser JS is a client side JavaScript language.
+•	Browser JS runs on the actual V8 Engine.
+•	Browser JS have windows and document Object.
+•	It was found by Brendan Eich, for Netscape.
